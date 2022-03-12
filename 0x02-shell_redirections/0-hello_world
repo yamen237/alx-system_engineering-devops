@@ -1,3 +1,2 @@
 #!/bin/bash
-echo 'Hllo, Word' >> file_name
-
+echo "Hello, World"
